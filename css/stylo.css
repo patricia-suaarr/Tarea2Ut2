@@ -1,0 +1,42 @@
+header{
+    border-style: outset;
+    background-color: #DC143C;
+}
+
+section {
+    background-color:  #ff7a7a;
+    border-style:solid;
+    margin: 3%;
+    width: 750px;
+}
+section#seccion1 {
+    height: 60px;
+}
+section#seccion2 {
+    height:  430px;
+ 
+}
+article{
+    margin: 1%;
+}
+h3{
+text-decoration: underline;
+}
+#aside1 {
+    width: 30%;
+    height: 60px;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(150, 250, 150);
+  }
+#aside2 {
+    width: 30%;
+    height:  430px;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(150, 250, 150);
+  }
